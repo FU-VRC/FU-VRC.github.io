@@ -1,0 +1,52 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": true,
+    "Categorys": [
+        {
+            "Category": "FU_private",
+            "Worlds": [
+                {
+                    "ID": "wrld_d850c33f-f541-4c5b-a0de-77a830b7361e",
+                    "Name": "1_room",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 20,
+                    "Description": "縛の自宅ワールド。各種撮影に使っていただいて大丈夫です。アセットの規約の都合でprivateでの公開です。",
+                    "ReleaseStatus": "private",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_bdfd6928-3bad-460d-be54-226de7b33652",
+                    "Name": "Studio_FU_scene002_HUGE_CONCRETE_HALL",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "巨大地下施設。撮影用。",
+                    "ReleaseStatus": "private",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        },
+        {
+            "Category": "撮影用おすすめワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
+                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "喫煙所とカフェと桜並木のある、どこか懐かしい街並み。／景観重視のため、やや負荷高めです。負荷対策ギミックあり。／Chillや作業に必要な基本的な機能の他、喫煙ギミックやフード・ドリンクを組み合わせて遊べるカフェギミック、サイフォンコーヒーギミックなどを搭載。音声棲み分け済みの寝室やChill用のお部屋も完備。街撮りからChill Outまで、多様な用途にお使いいただけます。詳しい機能紹介はこちらhttps˸⁄⁄www․fanbox․cc⁄＠kontohboh⁄posts⁄9688615",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+             ]
+        }
+    ]
+}
