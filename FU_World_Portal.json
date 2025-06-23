@@ -29,13 +29,13 @@
                 },
                 {
                     "ID": "wrld_bdfd6928-3bad-460d-be54-226de7b33652",
-                    "Name": "Studio_FU_scene002_HUGE_CONCRETE_HALLト",
+                    "Name": "Studio_FU_scene002_HUGE_CONCRETE_HALL",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "巨大地下施設",
                     "Platform": {
                         "PC": true,
-                        "Android": true
+                        "Android": false
                     }
                 }
             ]
