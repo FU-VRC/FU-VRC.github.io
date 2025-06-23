@@ -22,7 +22,7 @@
                     "Name": "Studio_FU_scene002_HUGE_CONCRETE_HALL",
                     "RecommendedCapacity": ,
                     "Capacity": 32,
-                    "Description": "巨大地下施設",
+                    "Description": "巨大地下施設。",
                     "ReleaseStatus": "private",
                     "Platform": {
                         "PC": true,
