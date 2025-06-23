@@ -3,12 +3,12 @@
     "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "FU_Private",
+            "Category": "Private公開ワールド",
             "Worlds": [
                 {
                     "ID": "wrld_d850c33f-f541-4c5b-a0de-77a830b7361e",
                     "Name": "1_room",
-                    "RecommendedCapacity":0,
+                    "RecommendedCapacity":,
                     "Capacity": 20,
                     "Description": "縛の自宅ワールド。各種撮影に使っていただいて大丈夫です。アセットの規約の都合でprivateでの公開です。",
                     "Platform": {
@@ -19,7 +19,7 @@
                 {
                     "ID": "wrld_0cd498c7-a5c2-4e37-ba1f-b5d1a679be35",
                     "Name": "Studio_FU_scene001_Ruins",
-                    "RecommendedCapacity": 0,
+                    "RecommendedCapacity": ,
                     "Capacity": 32,
                     "Description": "夜／廃倉庫／森",
                     "Platform": {
@@ -30,7 +30,7 @@
                 {
                     "ID": "wrld_bdfd6928-3bad-460d-be54-226de7b33652",
                     "Name": "Studio_FU_scene002_HUGE_CONCRETE_HALLト",
-                    "RecommendedCapacity": 0,
+                    "RecommendedCapacity": ,
                     "Capacity": 32,
                     "Description": "巨大地下施設",
                     "Platform": {
@@ -46,7 +46,7 @@
                 {
                     "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
                     "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
+                    "RecommendedCapacity": ,
                     "Capacity": 40,
                     "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
                     "Platform": {
@@ -60,11 +60,11 @@
             "Category": "スタジオ",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
+                    "ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
+                    "Name": "STUDIO open-shelf",
+                    "RecommendedCapacity": ,
                     "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -76,11 +76,11 @@
             "Category": "中華",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
+                    "ID": "wrld_47991d2e-42ef-4690-84fd-9100a5457c88",
+                    "Name": "KOWLOON SHISHA NIGHT ［九龍水煙之夜］",
+                    "RecommendedCapacity": ,
                     "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -92,11 +92,11 @@
             "Category": "海・水辺",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "ID": "wrld_a8558903-a260-482e-86b8-62534a9006f5",
+                    "Name": "PORCO ROSSO syndrome",
+                    "RecommendedCapacity": ,
+                    "Capacity": 32,
+                    "Description": "海が綺麗な夜明けの入り江でくつろぎのひとときを。",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -108,14 +108,36 @@
             "Category": "部屋",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "ID": "wrld_8d69aaa1-dad6-48d8-b75f-317bf0c7ce75",
+                    "Name": "OFF⁄RECO",
+                    "RecommendedCapacity": ,
+                    "Capacity": 6,
+                    "Description": "白・黒・赤で統一されたトーンのこじんまりとしたお部屋。金魚がいます。",
                     "Platform": {
                         "PC": true,
-                        "Android": false
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_4459baa8-aff1-4ed4-944e-6ce0ed04ec32",
+                    "Name": "phony rain",
+                    "RecommendedCapacity": ,
+                    "Capacity": 10,
+                    "Description": "雨のホテルの一室",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
+                    "Name": "Sunny Side",
+                    "RecommendedCapacity": ,
+                    "Capacity": 40,
+                    "Description": "くつろぎ空間に必要なものをひと通り取り揃えたコンサバトリーです。負荷は増しますが、Directional LightをONにすると日差しが差し込んでとても綺麗です。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
                     }
                 }
             ]
@@ -124,11 +146,11 @@
             "Category": "治安悪め",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
+                    "ID": "wrld_bbc2b2a5-7d02-4319-a37d-b31692b93624",
+                    "Name": "BAR REBELLION",
+                    "RecommendedCapacity": ,
                     "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "Description": "RP撮影用バー。カクテル作成ギミック、撮影用小物あり。撮影ほか、イベントや集会にも。どなたでもご利用ください。このワールドはホテルカデシュの二次創作物であり、公式ワールドではございません。",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -140,11 +162,11 @@
             "Category": "廃墟",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "ID": "wrld_c706e1fc-a762-4c5e-abb2-9ffed33dbf7d",
+                    "Name": "無料の廃村_Abandoned village",
+                    "RecommendedCapacity": ,
+                    "Capacity": 32,
+                    "Description": "広大な廃村",
                     "Platform": {
                         "PC": true,
                         "Android": false
@@ -156,11 +178,11 @@
             "Category": "自然",
             "Worlds": [
                 {
-                    "ID": "wrld_37898fa4-795d-4ebe-8aff-7b51def788a2",
-                    "Name": "Coffee＆Cigarettes -どこかで見た街-",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "ID": "wrld_a50bce60-4da6-4c70-b9f2-a4c06300bf9d",
+                    "Name": "Night Cafe＂よあけまで＂",
+                    "RecommendedCapacity": ,
+                    "Capacity": 20,
+                    "Description": "満点の星空と、大木の下にある野外カフェ",
                     "Platform": {
                         "PC": true,
                         "Android": false
