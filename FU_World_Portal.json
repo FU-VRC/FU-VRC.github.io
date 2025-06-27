@@ -37,6 +37,17 @@
                         "PC": true,
                         "Android": false
                     }
+                },
+                {
+                    "ID": "wrld_9c6cc9f7-53ff-49fe-9e3b-edb0677c91b6",
+                    "Name": "FOGTOPIA ＃101 - midnight -",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "FOGTOPIA ＃101深夜差分。トライアルチケットは共通。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
                 }
             ]
         },
