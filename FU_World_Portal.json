@@ -64,6 +64,28 @@
                         "PC": true,
                         "Android": false
                     }
+                },
+                {
+                    "ID": "wrld_9a3bde21-eaa5-4515-9d11-ed5ff8944d6b",
+                    "Name": "起き始めた街で ［Morning‚ on the footbridge］",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "今日もそれぞれの生活がはじまる。VIP特典あり。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_0e7e87c0-e545-4e68-aa12-84eeddfdd3f8",
+                    "Name": "何も居ません ［Midnight‚ on the footbridge］",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "本当にただ雰囲気がいいだけの真夜中の街。VIP特典あり。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
                 }
             ]
         },
