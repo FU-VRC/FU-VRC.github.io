@@ -51,6 +51,33 @@
                 }
             ]
         },
+                {
+            "Category": "施設",
+            "Worlds": [
+                {
+                    "ID": "wrld_c9eb6c60-b083-4ba1-a323-ce192e3a793f",
+                    "Name": "ごろ寝シアター ［gorone thater］",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "全席フラットシート／MIGIRI Spatial Speakert搭載でリッチな音響体験／上映会モードへの切り替え機能あり",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_a224d012-a47b-4c96-b408-5333d39a090a",
+                    "Name": "VIRTUAL COWORKING SPACE ＂co-bow＂",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "軽くお話もしながら作業したい人のためのコワーキングスペース的なワールドです。",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+            ]
+        },
         {
             "Category": "街",
             "Worlds": [
@@ -67,7 +94,7 @@
                 },
                 {
                     "ID": "wrld_9a3bde21-eaa5-4515-9d11-ed5ff8944d6b",
-                    "Name": "起き始めた街で ［Morning‚ on the footbridge］",
+                    "Name": "起き始めた街で ［Morning? on the footbridge］",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "今日もそれぞれの生活がはじまる。VIP特典あり。",
@@ -78,7 +105,7 @@
                 },
                 {
                     "ID": "wrld_0e7e87c0-e545-4e68-aa12-84eeddfdd3f8",
-                    "Name": "何も居ません ［Midnight‚ on the footbridge］",
+                    "Name": "何も居ません ［Midnight? on the footbridge］",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "本当にただ雰囲気がいいだけの真夜中の街。VIP特典あり。",
@@ -142,7 +169,7 @@
             "Worlds": [
                 {
                     "ID": "wrld_8d69aaa1-dad6-48d8-b75f-317bf0c7ce75",
-                    "Name": "OFF⁄RECO",
+                    "Name": "OFF?RECO",
                     "RecommendedCapacity": 3,
                     "Capacity": 6,
                     "Description": "白・黒・赤で統一されたトーンのこじんまりとしたお部屋。金魚がいます。",
