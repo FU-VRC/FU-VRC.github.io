@@ -57,8 +57,8 @@
                 {
                     "ID": "wrld_c9eb6c60-b083-4ba1-a323-ce192e3a793f",
                     "Name": "ごろ寝シアター ［gorone thater］",
-                    "RecommendedCapacity": 40,
-                    "Capacity": 80,
+                    "RecommendedCapacity": 20,
+                    "Capacity": 50,
                     "Description": "全席フラットシート／MIGIRI Spatial Speakert搭載でリッチな音響体験／上映会モードへの切り替え機能あり",
                     "Platform": {
                         "PC": true,
@@ -86,7 +86,40 @@
                     "Name": "Coffee＆Cigarettes -どこかで見た街-",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
-                    "Description": "日本の街並み／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "Description": "日本の街並み／春／喫煙所／カフェ／桜並木／やや負荷高め",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_0da00663-eab9-426d-a99c-27c6e3db1537",
+                    "Name": "Coffee＆Cigarettes -どこかで見た街- summer vacation",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "日本の街並み／夏／喫煙所／カフェ／やや負荷高め",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_62add807-e122-49ca-95b8-635c6784b07e",
+                    "Name": "Coffee＆Cigarettes -どこかで見た街- fall in fall",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "日本の街並み／秋／喫煙所／カフェ／紅葉／やや負荷高め",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_603b7ec6-9514-4fe8-beb5-dbdf97bc9ba2",
+                    "Name": "Coffee＆Cigarettes -どこかで見た街- winter magic",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "日本の街並み／冬／喫煙所／カフェ／クリスマス／やや負荷高め",
                     "Platform": {
                         "PC": true,
                         "Android": false
